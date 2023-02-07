@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/edneyosf/edneyosf/master/pc.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"/>
 
-<img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Android-00de7a?style=for-the-badge&logo=android&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 
