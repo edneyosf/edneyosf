@@ -5,6 +5,6 @@
  
 <img src="https://img.shields.io/badge/Flutter-0175C2?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-02569B?style=for-the-badge&logo=dart&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=white"/>
