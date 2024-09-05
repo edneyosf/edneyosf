@@ -5,3 +5,5 @@
 <img src="https://img.shields.io/badge/ReactJs-35495E?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Go-1EAED8?style=for-the-badge&logo=go&logoColor=white"/> 
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
